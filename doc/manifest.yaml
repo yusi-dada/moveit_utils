@@ -1,0 +1,18 @@
+actions: []
+authors: ''
+brief: ''
+bugtracker: ''
+depends:
+- rospy
+- roscpp
+- std_msgs
+- catkin
+- moveit_msgs
+description: The moveit_utils package
+license: TODO
+maintainers: ubuntu <ubuntu@todo.todo>
+msgs: []
+package_type: package
+repo_url: ''
+srvs: []
+url: ''
